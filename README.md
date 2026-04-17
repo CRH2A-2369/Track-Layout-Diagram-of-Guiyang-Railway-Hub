@@ -25,4 +25,5 @@
 讲解视频：(还没更出来所以空出个位置)
 
 部分区域因过于复杂未绘画
-这是一个基于https://github.com/railmapgen/railmapgen.github.io的贵阳铁路枢纽的配线图，不含部分货站及动车所信息，不含地铁信息
+这是一个基于https://github.com/railmapgen/railmapgen.github.io
+的贵阳铁路枢纽的配线图，不含部分货站及动车所信息，不含地铁信息
